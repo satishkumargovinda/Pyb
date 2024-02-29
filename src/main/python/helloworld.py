@@ -12,9 +12,7 @@ def helloworld(out):
 
     Args:
         out: Output stream to write the message to.
-
     """
-
     out.write("Hello world Python\n")
 
 # Call the function with a file object.
